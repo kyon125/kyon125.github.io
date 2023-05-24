@@ -1,0 +1,156 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "02c83d9c-cfe0-4f62-b56d-37de9299953e",
+        "1045fb16-5ca4-4c15-82b2-cdd530f26939",
+        "1963d118-1db8-41b6-88da-52982e3a1a18",
+        "2420e7e1-f951-4589-99eb-9bcc015ea160",
+        "28e45de2-aa66-49cd-a5a0-16e6e32cc523",
+        "5b0863e9-bfb5-41f5-a2a6-c77752cee680",
+        "5bf8ac04-021a-4b78-9c48-2a864ec18a4e",
+        "787b0b6c-451f-4f09-8a02-3f7aa5dcd6a5",
+        "8034575d-a6b2-49db-a531-f8fd22682052",
+        "88b26607-0962-48cc-b189-ffdc63c4fe07",
+        "8eba29a0-4403-4a9c-85a9-8f279c8cbd2c",
+        "8f941470-4001-4fc2-9036-4b834651e310",
+        "b1e778e3-b261-458e-b45f-07a47a1a3941",
+        "f6e1bd27-2949-4637-9b15-ca3b3040f9c7",
+        "f78d609a-a1b9-45a6-bf86-e3786cb54a24"
+    ],
+    "paths": {
+        "28e45de2-aa66-49cd-a5a0-16e6e32cc523": [
+            "Sound/BGM_Lose",
+            "cc.AudioClip"
+        ],
+        "88b26607-0962-48cc-b189-ffdc63c4fe07": [
+            "Sound/BGM_Win",
+            "cc.AudioClip"
+        ],
+        "1963d118-1db8-41b6-88da-52982e3a1a18": [
+            "Sound/MainBattle",
+            "cc.AudioClip"
+        ],
+        "f78d609a-a1b9-45a6-bf86-e3786cb54a24": [
+            "Sound/MainBattle02",
+            "cc.AudioClip"
+        ],
+        "1045fb16-5ca4-4c15-82b2-cdd530f26939": [
+            "Sound/SEFX_Cancel",
+            "cc.AudioClip"
+        ],
+        "b1e778e3-b261-458e-b45f-07a47a1a3941": [
+            "Sound/SEFX_CardMove",
+            "cc.AudioClip"
+        ],
+        "02c83d9c-cfe0-4f62-b56d-37de9299953e": [
+            "Sound/SEFX_CardSelect",
+            "cc.AudioClip"
+        ],
+        "8034575d-a6b2-49db-a531-f8fd22682052": [
+            "Sound/SEFX_CharacterSelect",
+            "cc.AudioClip"
+        ],
+        "787b0b6c-451f-4f09-8a02-3f7aa5dcd6a5": [
+            "Sound/SEFX_Damage",
+            "cc.AudioClip"
+        ],
+        "f6e1bd27-2949-4637-9b15-ca3b3040f9c7": [
+            "Sound/SEFX_EnemyMove",
+            "cc.AudioClip"
+        ],
+        "8f941470-4001-4fc2-9036-4b834651e310": [
+            "Sound/SEFX_FriendMove",
+            "cc.AudioClip"
+        ],
+        "8eba29a0-4403-4a9c-85a9-8f279c8cbd2c": [
+            "Sound/SEFX_SwordAttack",
+            "cc.AudioClip"
+        ],
+        "5bf8ac04-021a-4b78-9c48-2a864ec18a4e": [
+            "Sound/SEFX_GunAttack",
+            "cc.AudioClip"
+        ],
+        "5b0863e9-bfb5-41f5-a2a6-c77752cee680": [
+            "Sound/SEFX_SwordAttack02",
+            "cc.AudioClip"
+        ],
+        "2420e7e1-f951-4589-99eb-9bcc015ea160": [
+            "Sound/SEFX_CharacterInfo",
+            "cc.AudioClip"
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "02c83d9c-cfe0-4f62-b56d-37de9299953e",
+            "1d9f8",
+            "1045fb16-5ca4-4c15-82b2-cdd530f26939",
+            "0c7aa",
+            "1963d118-1db8-41b6-88da-52982e3a1a18",
+            "b6c64",
+            "2420e7e1-f951-4589-99eb-9bcc015ea160",
+            "692c5",
+            "28e45de2-aa66-49cd-a5a0-16e6e32cc523",
+            "781f2",
+            "5b0863e9-bfb5-41f5-a2a6-c77752cee680",
+            "eb9ef",
+            "5bf8ac04-021a-4b78-9c48-2a864ec18a4e",
+            "9b27d",
+            "787b0b6c-451f-4f09-8a02-3f7aa5dcd6a5",
+            "28ba2",
+            "8034575d-a6b2-49db-a531-f8fd22682052",
+            "3fba7",
+            "88b26607-0962-48cc-b189-ffdc63c4fe07",
+            "339fc",
+            "8eba29a0-4403-4a9c-85a9-8f279c8cbd2c",
+            "32966",
+            "8f941470-4001-4fc2-9036-4b834651e310",
+            "da376",
+            "b1e778e3-b261-458e-b45f-07a47a1a3941",
+            "dd65d",
+            "f6e1bd27-2949-4637-9b15-ca3b3040f9c7",
+            "9aaa0",
+            "f78d609a-a1b9-45a6-bf86-e3786cb54a24",
+            "f7da8"
+        ],
+        "native": [
+            "02c83d9c-cfe0-4f62-b56d-37de9299953e",
+            "dbaf3",
+            "1045fb16-5ca4-4c15-82b2-cdd530f26939",
+            "daea1",
+            "1963d118-1db8-41b6-88da-52982e3a1a18",
+            "59f57",
+            "2420e7e1-f951-4589-99eb-9bcc015ea160",
+            "5c2c0",
+            "28e45de2-aa66-49cd-a5a0-16e6e32cc523",
+            "dbc69",
+            "5b0863e9-bfb5-41f5-a2a6-c77752cee680",
+            "23f0a",
+            "5bf8ac04-021a-4b78-9c48-2a864ec18a4e",
+            "5b95d",
+            "787b0b6c-451f-4f09-8a02-3f7aa5dcd6a5",
+            "fea18",
+            "8034575d-a6b2-49db-a531-f8fd22682052",
+            "865bd",
+            "88b26607-0962-48cc-b189-ffdc63c4fe07",
+            "6673c",
+            "8eba29a0-4403-4a9c-85a9-8f279c8cbd2c",
+            "13efd",
+            "8f941470-4001-4fc2-9036-4b834651e310",
+            "5e618",
+            "b1e778e3-b261-458e-b45f-07a47a1a3941",
+            "67604",
+            "f6e1bd27-2949-4637-9b15-ca3b3040f9c7",
+            "945c0",
+            "f78d609a-a1b9-45a6-bf86-e3786cb54a24",
+            "4809f"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {}
+}
